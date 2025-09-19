@@ -37,7 +37,7 @@ AI_KEYWORDS = [
 
 # News API Integration (alternative source)
 NEWS_API_ENABLED = True
-NEWS_API_KEY = "20c3104c99644e628aa9b20509b745ba"  # NewsAPI key for broader coverage
+NEWS_API_KEY = "YOUR_NEWS_API_KEY"  # NewsAPI key for broader coverage
 NEWS_SOURCES = [
     "techcrunch", "the-verge", "wired", "ars-technica", 
     "engadget", "venturebeat", "mit-technology-review"
